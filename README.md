@@ -1,6 +1,6 @@
 ## Hi, I'm Abdur Rahman 👋
 
-I'm a software engineer with experience in JavaScript, Python, Go, and PHP. I specialize in building scalable and efficient web applications that can handle complex data processing and high user traffic. I'm passionate about staying up-to-date with the latest technologies and development methodologies, and always seeking to improve my skills in these programming languages.
+I'm a software engineer with experience in JavaScript, Python, Go, and PHP. I specialize in building scalable and efficient web applications that can handle complex data processing and high user traffic. I'm passionate about staying up-to-date with the latest technologies and development methodologies, and always seeking to improve my skills.
 
 - 🔭 I’m currently working as a Software Engineer
 - 🌱 I’m currently learning Microservice architecture and ELK stack
