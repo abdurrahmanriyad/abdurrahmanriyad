@@ -1,11 +1,11 @@
 ## Hi, I'm Abdur Rahman 👋
 
-I'm a software engineer with experience in JavaScript, Python, Go, and PHP. I specialize in building scalable and efficient web applications that can handle complex data processing and high user traffic. I'm passionate about staying up-to-date with the latest technologies and development methodologies, and always seeking to improve my skills.
+I'm a Software Engineer with expertise in JavaScript, Python, Go, and PHP. I specialize in building scalable, AI-powered, high-performance web applications that handle complex data processing and heavy user traffic. Passionate about AI, software architecture, automation, and DevOps, I continuously explore new technologies to refine my skills and stay ahead in the industry.
 
 - 🔭 I’m currently working as a Software Engineer
-- 🌱 I’m currently learning Microservice architecture and ELK stack
-- 💬 Let's talk about Software architecture, scalability, automation, DevOps and latest technologies
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abdurrahmanriyad/)
+- 🤖 Exploring AI-driven solutions for automation & data processing
+- 💬 Love discussing AI, scalability, automation, DevOps, and cutting-edge technologies
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/abdurrahmanriyad/)
 - ⚡ Fun fact: I'm also a hobbyist photographer and love to capture landscapes and portraits in my free time.
 
 ### Technical Skills
@@ -14,6 +14,7 @@ I'm a software engineer with experience in JavaScript, Python, Go, and PHP. I sp
 - Node.js, Laravel, Symfony, React, Express, Flask, Django
 - MySQL, PostgreSQL, MongoDB
 - Redis, RabbitMQ
+- OpenAI API, TensorFlow, Pandas, NumPy
 
 ### Open-Source Contributions
 
