@@ -1,6 +1,7 @@
 ## Hi, I'm Abdur Rahman 👋
 
 I'm a Software Engineer with expertise in JavaScript, Python, Go, and PHP. I specialize in building scalable, AI-powered, high-performance web applications that handle complex data processing and heavy user traffic.
+
 Passionate about AI, software architecture, automation, and DevOps, I continuously explore new technologies to refine my skills and stay ahead in the industry.
 
 - 🔭 I’m currently working as a Software Engineer
