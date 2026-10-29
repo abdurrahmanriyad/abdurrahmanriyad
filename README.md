@@ -6,8 +6,6 @@ I build scalable, AI-powered systems: LLM features, automation and data pipeline
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white)](https://www.linkedin.com/in/abdurrahmanriyad/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@abdurrahmanriyad)
-![Open to collaborate](https://img.shields.io/badge/open_to-collaborate-8B5CF6?style=flat-square)
-
 </div>
 
 ---
