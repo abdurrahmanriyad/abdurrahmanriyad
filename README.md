@@ -1,27 +1,58 @@
-## Hi, I'm Abdur Rahman 👋
+<div align="center">
 
-I'm a Software Engineer with expertise in JavaScript, Python, Go, and PHP. I specialize in building scalable, AI-powered, high-performance web applications that handle complex data processing and heavy user traffic.
+# Abdur Rahman
 
-Passionate about AI, software architecture, automation, and DevOps, I continuously explore new technologies to refine my skills and stay ahead in the industry.
+I build scalable, AI-powered systems: LLM features, automation and data pipelines that hold up under real traffic.
 
-- 🔭 I’m currently working as a Software Engineer
-- 🤖 Exploring AI-driven solutions for automation & data processing
-- 💬 Love discussing AI, scalability, automation, DevOps, and cutting-edge technologies
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/abdurrahmanriyad/)
-- ⚡ Fun fact: I'm also a hobbyist photographer and love to capture landscapes and portraits in my free time.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white)](https://www.linkedin.com/in/abdurrahmanriyad/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@abdurrahmanriyad)
+![Open to collaborate](https://img.shields.io/badge/open_to-collaborate-8B5CF6?style=flat-square)
 
-### Technical Skills
+</div>
 
-- JavaScript, Python, Go, PHP
-- Node.js, Laravel, Symfony, React, Express, Flask, Django
-- MySQL, PostgreSQL, MongoDB
-- Redis, RabbitMQ
-- OpenAI API, TensorFlow, Pandas, NumPy
+---
 
-### Open-Source Contributions
+```python
+class AbdurRahman(SoftwareEngineer):
+    role       = "Software Engineer · AI & Backend"
+    languages  = ["Python", "Go", "JavaScript", "PHP"]
+    principles = ["measure before optimizing", "boring infra, bold products",
+                  "ship small, ship often"]
 
-- [laravel.com](https://github.com/laravel/laravel.com) - Fixed frontend issues of laravel.com website
+    def now(self):
+        return "Building AI features into systems that handle real traffic"
 
-### Let's Connect!
+    def off_hours(self):
+        return "🚗 Driving"
+```
 
-Feel free to contact me if you have any questions, opportunities to collaborate, or just want to chat. You can find me on [LinkedIn](https://www.linkedin.com/in/abdurrahmanriyad/)
+## 🧠 What I work on
+
+- **AI-powered applications**: integrating LLMs (OpenAI API) into real products.
+- **Automation & data processing**: pipelines and workers that handle high-volume data.
+- **Backend at scale**: APIs and services built for heavy traffic, using queues (RabbitMQ) and caching (Redis).
+- **DevOps**: containers and CI/CD that keep deployments smooth.
+
+## 🌱 Currently going deep on
+
+AI agents & MCP · RAG · LLM evals & guardrails · cost-efficient LLM serving
+
+## 🛠️ Toolbox
+
+**Languages & frameworks**
+
+<img src="https://skillicons.dev/icons?i=py,go,js,php,nodejs,react,express,flask,django,laravel,symfony&perline=12" alt="Languages and frameworks" />
+
+**Data, infra & delivery**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq,docker,nginx,githubactions,linux&perline=12" alt="Data and infrastructure" />
+
+**AI**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square)
+
+## 🤝 Let's talk
+
+I'm always up for a conversation about **AI in production, system design, automation or scaling**.
+Reach out on [LinkedIn](https://www.linkedin.com/in/abdurrahmanriyad/) or read my writing on [Medium](https://medium.com/@abdurrahmanriyad).
