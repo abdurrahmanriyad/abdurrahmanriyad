@@ -1,6 +1,6 @@
 <div align="center">
 
-#### Abdur // building with AI 🤖
+## Abdur // building with AI 🤖
 
 I build scalable, AI-powered systems: LLM features, automation and data pipelines that hold up under real traffic.
 
