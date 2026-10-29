@@ -28,14 +28,15 @@ class AbdurRahman(SoftwareEngineer):
 
 ## 🧠 What I work on
 
-- **AI-powered applications**: integrating LLMs (OpenAI API) into real products.
+- **AI-powered applications**: integrating LLMs (OpenAI API, Hugging Face) into real products.
+- **AI agents & MCP**: tool-using agents built with LangChain and MCP, with vector search on pgvector.
 - **Automation & data processing**: pipelines and workers that handle high-volume data.
 - **Backend at scale**: APIs and services built for heavy traffic, using queues (RabbitMQ) and caching (Redis).
 - **DevOps**: containers and CI/CD that keep deployments smooth.
 
 ## 🌱 Currently going deep on
 
-AI agents & MCP · RAG · LLM evals & guardrails · cost-efficient LLM serving
+RAG · LLM evals & guardrails · cost-efficient LLM serving
 
 ## 🛠️ Toolbox
 
@@ -51,6 +52,10 @@ AI agents & MCP · RAG · LLM evals & guardrails · cost-efficient LLM serving
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 ## 🤝 Let's talk
 
