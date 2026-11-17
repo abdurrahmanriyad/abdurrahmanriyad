@@ -5,7 +5,8 @@
 I build scalable, AI-powered systems: LLM features, automation and data pipelines that hold up under real traffic.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white)](https://www.linkedin.com/in/abdurrahmanriyad/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@abdurrahmanriyad)
+[![Website](https://img.shields.io/badge/abdur.tech-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white)](https://abdur.tech)
+
 </div>
 
 ---
@@ -58,4 +59,4 @@ RAG · LLM evals & guardrails · cost-efficient LLM serving
 ## 🤝 Let's talk
 
 I'm always up for a conversation about **AI in production, system design, automation or scaling**.
-Reach out on [LinkedIn](https://www.linkedin.com/in/abdurrahmanriyad/) or read my writing on [Medium](https://medium.com/@abdurrahmanriyad).
+Reach out on [LinkedIn](https://www.linkedin.com/in/abdurrahmanriyad/) or visit my website, [abdur.tech](https://abdur.tech).
