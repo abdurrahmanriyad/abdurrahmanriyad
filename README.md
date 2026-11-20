@@ -1,62 +1,8 @@
-<div align="center">
-
 ## Abdur // building with AI 🤖
 
-I build scalable, AI-powered systems: LLM features, automation and data pipelines that hold up under real traffic.
+I help businesses put AI to work: cutting manual work, connecting AI to the tools they already use, and shipping AI features their customers actually use, on backends built to scale.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white)](https://www.linkedin.com/in/abdurrahmanriyad/)
-[![Website](https://img.shields.io/badge/abdur.tech-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white)](https://abdur.tech)
-
-</div>
-
----
-
-```python
-class AbdurRahman(SoftwareEngineer):
-    role       = "Software Engineer · AI & Backend"
-    languages  = ["Python", "Go", "JavaScript", "PHP"]
-    principles = ["measure before optimizing", "boring infra, bold products",
-                  "ship small, ship often"]
-
-    def now(self):
-        return "Building AI features into systems that handle real traffic"
-
-    def off_hours(self):
-        return "🚗 Driving"
-```
-
-## 🧠 What I work on
-
-- **AI-powered applications**: integrating LLMs (OpenAI API, Hugging Face) into real products.
-- **AI agents & MCP**: tool-using agents built with LangChain and MCP, with vector search on pgvector.
-- **Automation & data processing**: pipelines and workers that handle high-volume data.
-- **Backend at scale**: APIs and services built for heavy traffic, using queues (RabbitMQ) and caching (Redis).
-- **DevOps**: containers and CI/CD that keep deployments smooth.
-
-## 🌱 Currently going deep on
-
-RAG · LLM evals & guardrails · cost-efficient LLM serving
-
-## 🛠️ Toolbox
-
-**Languages & frameworks**
-
-<img src="https://skillicons.dev/icons?i=py,go,js,php,nodejs,react,express,flask,django,laravel,symfony&perline=12" alt="Languages and frameworks" />
-
-**Data, infra & delivery**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq,docker,nginx,githubactions,linux&perline=12" alt="Data and infrastructure" />
-
-**AI**
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-## 🤝 Let's talk
-
-I'm always up for a conversation about **AI in production, system design, automation or scaling**.
-Reach out on [LinkedIn](https://www.linkedin.com/in/abdurrahmanriyad/) or visit my website, [abdur.tech](https://abdur.tech).
+- 💼 **What I deliver:** AI agents that take over repetitive tasks, automations that connect AI to existing systems, and LLM features inside real products
+- 🛠️ **How I build it:** Python · Go · JavaScript · PHP · LangChain · MCP · pgvector · PostgreSQL · Redis · RabbitMQ · Docker
+- 🌱 **Leveling up on:** context engineering · multi-agent workflows · evals & observability · lower AI costs
+- 🔗 [abdur.tech](https://abdur.tech) · [LinkedIn](https://www.linkedin.com/in/abdurrahmanriyad/)
